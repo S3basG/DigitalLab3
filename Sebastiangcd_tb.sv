@@ -25,7 +25,7 @@ module Sebastiangcd_tb;
 //    .WIDTH(WIDTH)
 //  ) uut (
  
-  hlamgcd uut (
+  Sebastiangcd uut (
     .clk(clk),
     .reset(rst),
     .start(go),
